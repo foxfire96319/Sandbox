@@ -1,0 +1,6 @@
+command line:
+
+git --version 
+python -- version
+
+lists which version of sw is installed
